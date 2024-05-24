@@ -1,0 +1,19 @@
+{
+  "dependencies": [
+    {
+      "name": "drogon",
+      "features": [
+        "ctl",
+        "orm",
+        "postgres",
+        "sqlite3"
+      ]
+    },
+    "jsoncpp",
+    "libpq",
+    "libpqxx",
+    "openssl",
+    "sqlite3",
+    "zlib"
+  ]
+}
